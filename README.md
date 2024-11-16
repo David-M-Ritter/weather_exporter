@@ -1,10 +1,10 @@
 # weather_exporter
 ## Export weather from open-meteo to Dynatrace as metric
 This project exports the tempature from: 
-Ludington, Mi
-Lansing, Mi
-Charlevoix, Mi
-Paris, France
+Ludington, Mi; 
+Lansing, Mi; 
+Charlevoix, Mi; 
+Paris, France; 
 Syndey, Austraila 
 
 It then exports the information to Dynatrace. You will need a Dynatrace tenant url and api-token with metrics.ingest permissions in order for this to work. 
